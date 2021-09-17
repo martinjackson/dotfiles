@@ -89,3 +89,4 @@ If you are using a different terminal, proceed with manual font installation. ðŸ
 
 
 
+Extra notes here: https://www.youtube.com/watch?v=oF6gLyhQDdw&list=WL&index=5
